@@ -1,0 +1,38 @@
+=======================================
+ATC TUITION CENTER
+PAYMENT RECEIPT
+=======================================
+
+Payment ID   : PM040
+Payment Date : 31/7/2025
+
+Admin ID     : A001
+Admin Name   : Emma Carter
+
+---------------------------------------
+STUDENT DETAILS
+---------------------------------------
+Student ID     : S014
+Student Name   : Kim Minjeong
+---------------------------------------
+Level  Subject       Tutor    
+---------------------------------------
+Form 3 Mathematics   Melissa Lee
+
+
+---------------------------------------
+PAYMENT DETAILS
+---------------------------------------
+Payment Method : Cash
+Payment Plan   : Monthly
+---------------------------------------
+Subject       Month/Year       Amount
+---------------------------------------
+Mathematics   July 2025         110.0
+---------------------------------------
+Subtotal                        110.0
+
+
+=======================================
+Thank you for your payment!
+=======================================

@@ -1,0 +1,48 @@
+=======================================
+ATC TUITION CENTER
+PAYMENT RECEIPT
+=======================================
+
+Payment ID   : PM006
+Payment Date : 3/12/2022
+
+Admin ID     : A001
+Admin Name   : Emma Carter
+
+---------------------------------------
+STUDENT DETAILS
+---------------------------------------
+Student ID     : S005
+Student Name   : Ava Miller
+---------------------------------------
+Level  Subject       Tutor    
+---------------------------------------
+Form 4 Mathematics   Jason Chiang
+
+
+---------------------------------------
+PAYMENT DETAILS
+---------------------------------------
+Payment Method : Cash
+Payment Plan   : Yearly
+---------------------------------------
+Subject       Month/Year       Amount
+---------------------------------------
+Mathematics   February 2022     120.0
+Mathematics   March 2022        120.0
+Mathematics   April 2022        120.0
+Mathematics   May 2022          120.0
+Mathematics   June 2022         120.0
+Mathematics   July 2022         120.0
+Mathematics   August 2022       120.0
+Mathematics   September 2022    120.0
+Mathematics   October 2022      120.0
+Mathematics   November 2022     120.0
+Mathematics   December 2022     120.0
+---------------------------------------
+Subtotal                       1320.0
+
+
+=======================================
+Thank you for your payment!
+=======================================

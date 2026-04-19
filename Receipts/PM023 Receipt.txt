@@ -1,0 +1,45 @@
+=======================================
+ATC TUITION CENTER
+PAYMENT RECEIPT
+=======================================
+
+Payment ID   : PM023
+Payment Date : 6/8/2024
+
+Admin ID     : A001
+Admin Name   : Emma Carter
+
+---------------------------------------
+STUDENT DETAILS
+---------------------------------------
+Student ID     : S010
+Student Name   : Mason Thomas
+---------------------------------------
+Level  Subject       Tutor    
+---------------------------------------
+Form 4 English       Tan Wen Qi
+
+
+---------------------------------------
+PAYMENT DETAILS
+---------------------------------------
+Payment Method : Bank Transfer
+Payment Plan   : Yearly
+---------------------------------------
+Subject       Month/Year       Amount
+---------------------------------------
+English       January 2024      110.0
+English       February 2024     110.0
+English       March 2024        110.0
+English       April 2024        110.0
+English       May 2024          110.0
+English       June 2024         110.0
+English       July 2024         110.0
+English       August 2024       110.0
+---------------------------------------
+Subtotal                        880.0
+
+
+=======================================
+Thank you for your payment!
+=======================================

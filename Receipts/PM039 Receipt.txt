@@ -1,0 +1,43 @@
+=======================================
+ATC TUITION CENTER
+PAYMENT RECEIPT
+=======================================
+
+Payment ID   : PM039
+Payment Date : 29/7/2025
+
+Admin ID     : A001
+Admin Name   : Emma Carter
+
+---------------------------------------
+STUDENT DETAILS
+---------------------------------------
+Student ID     : S004
+Student Name   : Noah Davis
+---------------------------------------
+Level  Subject       Tutor    
+---------------------------------------
+Form 2 English       Adam Chan
+
+
+---------------------------------------
+PAYMENT DETAILS
+---------------------------------------
+Payment Method : Bank Transfer
+Payment Plan   : Yearly
+---------------------------------------
+Subject       Month/Year       Amount
+---------------------------------------
+English       February 2025      90.0
+English       March 2025         90.0
+English       April 2025         90.0
+English       May 2025           90.0
+English       June 2025          90.0
+English       July 2025          90.0
+---------------------------------------
+Subtotal                        540.0
+
+
+=======================================
+Thank you for your payment!
+=======================================
