@@ -1,0 +1,16 @@
+S001,Emma Johnson,15,Female,620111532973,+60144004602,emmaj95@gmail.com,Subang Jaya,Form 3,English;Mathematics;Science,March 2023
+S002,Liam Smith,13,Male,760923069955,+60144009301,liamsmith23@gmail.com,Cheras,Form 1,English;Mathematics;Science,June 2025
+S003,Olivia Brown,17,Female,151222026585,+60188139362,livyb_17@gmail.com,Ampang,Form 5,Science,January 2021
+S004,Noah Davis,14,Male,901214046090,+60144001641,noah.davis01@gmail.com,Setapak,Form 2,English,May 2024
+S005,Ava Miller,16,Female,070513458759,+60172120758,ava.miller21@gmail.com,Bandar Sunway,Form 4,Mathematics,February 2022
+S006,Ethan Wilson,13,Male,261106312882,ethanw_99@gmail.com,+60106813838,Wangsa Maju,Form 1,English;Science,July 2025
+S007,Sophia Anderson,15,Female,080922115897,+601188891159,sophia.anderson7@gmail.com,Kajang,Form 3,English,April 2023
+S008,Lucas Moore,17,Male,760512168749,+601188860028,lucas.moore24@gmail.com,Puchong,Form 5,English;Mathematics,January 2021
+S009,Isabella Taylor,14,Female,700427579727,+60184716887,bella.taylor03@gmail.com,Shah Alam,Form 2,Science,May 2024
+S010,Mason Thomas,16,Male,890401404258,+60134702966,mason.t_15@gmail.com,Kepong,Form 4,English,February 2022
+S011,Judy Alvarez,16,Female,061121080190,+60133950012,judyalvarezml@gmail.com,Northside Kabuki,Form 4,English;Mathematics;Science,July 2025
+S012,Panam Palmer,15,Female,123456789123,+60123456789,panampalmer78@gmail.com,Eastern Badlands,Form 3,Mathematics,July 2025
+S013,Ningning Yizhuo,16,Female,696969696969,+60696969696,iamningning@gmail.com,Aespo Dorm,Form 4,Science,July 2025
+S014,Kim Minjeong,15,Female,123123123123,+60123123123,winterkim@gmail.com,Aespa Dorm 2,Form 3,Mathematics,July 2025
+S015,Christabel Yap,14,Female,061012020981,+60110000080,belbel88@gmail.com,Kinrara Bk5,Form 2,English;Science,July 2025
+S016,Lee Xiao Ming,13,Male,260924054658,+60280820011,xiaomingming@gmail.com,Taman Paramount,Form 1,English,August 2025

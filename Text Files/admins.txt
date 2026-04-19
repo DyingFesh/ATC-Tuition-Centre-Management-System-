@@ -1,0 +1,3 @@
+A001,Emma Carter,+60123456789,emmac.92@gmail.com
+A002,Liam Bennett,+60137912468,liambennett_14@gmail.com
+A003,Olivia Hughes,+60185671234,oliviahughes.xo@gmail.com

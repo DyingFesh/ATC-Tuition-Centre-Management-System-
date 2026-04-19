@@ -1,0 +1,12 @@
+S001,Science,Needs extra support in lab work,Accepted,20/07/2025,29/7/2025
+S002,English,Requesting advanced reading materials,Accepted,15/07/2025,18/07/2025
+S002,Science,Missed prerequisite topic coverage,Rejected,16/07/2025,19/07/2025
+S003,English,Struggling with essay writing,Pending,21/07/2025,null
+S004,Science,Interested in science fair preparation,Pending,22/07/2025,null
+S005,Science,Missed classes due to illness,Pending,23/07/2025,null
+S006,English,Needs clarification on grammar lessons,Accepted,10/07/2025,12/07/2025
+S007,Mathematics,Requires revision before midterms,Pending,24/07/2025,null
+S008,English,Wants to attend extra literature sessions,Rejected,11/07/2025,13/07/2025
+S009,English,Needs help with poem analysis,Pending,25/07/2025,null
+S010,Mathematics,Struggling with algebra concepts,Pending,26/07/2025,null
+S013,Mathematics,Need extra help with maths,Accepted,31/07/2025,31/7/2025

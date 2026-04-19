@@ -1,0 +1,15 @@
+Form 1,English,90
+Form 1,Mathematics,100
+Form 1,Science,100
+Form 2,English,90
+Form 2,Mathematics,100
+Form 2,Science,100
+Form 3,English,100
+Form 3,Mathematics,110
+Form 3,Science,110
+Form 4,English,110
+Form 4,Mathematics,120
+Form 4,Science,120
+Form 5,English,120
+Form 5,Mathematics,130
+Form 5,Science,130
